@@ -11,6 +11,7 @@ brew "jq"
 brew "aria2"
 brew "mas"
 brew "npm"
+brew "youtube-dl"
 
 cask "iterm2"
 cask "google-chrome"
